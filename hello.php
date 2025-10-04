@@ -3,7 +3,7 @@
 
 <head>
 <title>Hello</title>
-<link href="../assets/img/polard8.png" rel="icon" type="image/x-icon">
+<link href="../assets/img/rabbit00.png" rel="icon" type="image/x-icon">
 <link href="../assets/css/gramado.css" rel="stylesheet">
 </head>
 

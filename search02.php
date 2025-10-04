@@ -10,7 +10,7 @@
 
 <!-- Google Fonts for modern typography -->
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-<link rel="icon" href="../assets/img/polard8.png" type="image/x-icon">
+<link rel="icon" href="../assets/img/rabbit00.png" type="image/x-icon">
 <link href="../assets/css/gramado.css" rel="stylesheet">
 
 <style>
@@ -149,7 +149,7 @@
     </nav>
 
     <div class="core">
-        <img class="logo" src="../assets/img/polard8.png" alt="Logo">
+        <img class="logo" src="../assets/img/rabbit00.png" alt="Logo">
         <h1>Seek Balance Organization</h1>
         <div class="directory-list">
         <?php

@@ -82,7 +82,7 @@
 <link rel="dns-prefetch" href="https://github.com/"/>
 
 <!-- Cool links -->
-<link href="../assets/img/polard8.png" rel="icon" type="image/x-icon">
+<link href="../assets/img/rabbit00.png" rel="icon" type="image/x-icon">
 <link href="../assets/css/gramado.css" rel="stylesheet">
 </head>
 
@@ -90,7 +90,7 @@
 
     <!-- Navigation bar -->
     <nav class="gramado-nav">
-        <!-- <img class="gramado-logo" src="../assets/img/polard8.png" alt="Logo"> -->
+        <!-- <img class="gramado-logo" src="../assets/img/rabbit00.png" alt="Logo"> -->
         <ul>
             <!-- 1: Developer -->
             <li><a href="developer/index.html">Developer</a></li>
@@ -105,7 +105,7 @@
 
     <!-- popup_container module -->
     <div class="popup_container">
-    <img class="gramado-logo" src="../assets/img/polard8.png" alt="Logo">
+    <img class="gramado-logo" src="../assets/img/rabbit00.png" alt="Logo">
     <h1>Seek Balance Organization</h1>
 
     <?php
